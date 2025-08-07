@@ -18,8 +18,8 @@ Welcome to my personal repository for the **CS50P** course by Harvard University
 | Week | Topic                    | Folder                     | Status  |
 |------|--------------------------|----------------------------|---------|
 | 0    | Functions                | `week0_functions/`         | ✅ Completed |
-| 1    | Conditionals             | `week1_conditionals/`      |  |
-| 2    | Loops                    | `week2_loops/`             |  |
+| 1    | Conditionals             | `week1_conditionals/`      | ✅ Completed |
+| 2    | Loops                    | `week2_loops/`             | ✅ Completed |
 | 3    | Exceptions               | `week3_exceptions/`        | |
 | 4    | Libraries                | `week4_libraries/`         |  |
 | 5    | Unit Tests               | `week5_unit_tests/`        |  |
