@@ -62,6 +62,6 @@ Thanks to Harvard and David J. Malan for this amazing course.
 
 ## 📬 Contact
 
-- 📧 Email: [YourEmail@example.com]
+- 📧 Email: [nazarnznz@gmail.com]
 - 🐙 GitHub: [Nazar-04](https://github.com/Nazar-04)
 
