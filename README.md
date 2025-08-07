@@ -13,13 +13,20 @@ Welcome to my personal repository for the **CS50P** course by Harvard University
 
 ---
 
-## ✅ Completed Projects
+## 📚 Weekly Topics and Projects
 
-| Week | Problem Set | Description |
-|------|-------------|-------------|
-| 0    | hello.py    | A simple hello world in Python |
-| 1    | ...         | ... |
-| ...  | ...         | ... |
+| Week | Topic                    | Folder                     | Status  |
+|------|--------------------------|----------------------------|---------|
+| 0    | Functions                | `week0_functions/`         | ✅ Completed |
+| 1    | Conditionals             | `week1_conditionals/`      |  |
+| 2    | Loops                    | `week2_loops/`             |  |
+| 3    | Exceptions               | `week3_exceptions/`        | |
+| 4    | Libraries                | `week4_libraries/`         |  |
+| 5    | Unit Tests               | `week5_unit_tests/`        |  |
+| 6    | File I/O                 | `week6_file_io/`           |  |
+| 7    | Regular Expressions      | `week7_regex/`             |  |
+| 8    | Object-Oriented Programming | `week8_oop/`           |  |
+| 9    | Et Cetera (misc)         | `week9_misc/`              | |
 
 ---
 
